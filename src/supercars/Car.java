@@ -2,7 +2,7 @@ package supercars;
 
 public class Car {
 	//Поля класса, по сути несколько
-	//переменных описывающие класс
+	//переменных описывающие классccc
 	private int yearModel;
     private String brand;
     private int priceModel;
